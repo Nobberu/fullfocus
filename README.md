@@ -1,4 +1,4 @@
-## ✦ Project: Fullfocus.
+## ✦ Project: fullfocus.
 An app designed to improve user productivity and focus management, helping people get more things done.
 
 ### 🔑 Key Concept
@@ -9,8 +9,6 @@ We want to keep the visual style as close to pure minimalism and distraction-fre
 
 ### 🎧 Interaction Sounds
 Interaction sounds are key to a perfect user experience. Subtle auditory cues and indicators enhance how users feel while using the app, driving maximum productivity.
-
-<br>
 
 ### 📄 Credits
 - [**A6iyyu**](https://github.com/a6iyyu) - As the main development partner.
