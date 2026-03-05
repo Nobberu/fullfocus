@@ -8,14 +8,8 @@ Clean, distraction-free, and quick-access features to ensure that users don't ge
 
 - **Selected Quick-Focus Method:** Users can click this button to activate the Quick-Focus feature, immediately starting a countdown based on their selected focus method.
 - **Quick and Easy To-Do Access:** Users can Create, Read, Update, and Delete, as well as check/uncheck items on their to-do list directly from the homepage. Minimizes energy loss caused by excessive navigation.
-
-## Visual Style
-
-We want to keep the visual style as close to pure minimalism and distraction-free. Aiming for fluid and frictionless navigation feel. By adopting this, users can direct their energy toward finishing their work instead of struggling to maintain a "perfect" management system every time they start a task.
-
-## Interaction Sounds
-
-Interaction sounds are key to a perfect user experience. Subtle auditory cues and indicators enhance how users feel while using the app, driving maximum productivity.
+- **Clean Visual Style:** Keeping the visual style as close to pure minimalism and distraction-free to minimize user's energy loss.
+- **Interaction Soudns:** Subtle auditory cues and indicators enhance how users feel while using the app, driving maximum productivity.
 
 ## Credits
 
