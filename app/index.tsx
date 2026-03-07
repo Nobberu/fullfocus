@@ -23,7 +23,7 @@ export default function HomeScreen() {
               15-30 break.
             </Text>
           </View>
-          <Text style={styles.startText}>Start</Text>
+          <Text style={styles.start}>Start</Text>
         </LinearGradient>
       </SquircleWrapper>
 
@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 
-  startText: {
+  start: {
     fontFamily: "InterMedium",
     color: "#fff",
     fontSize: 16,
