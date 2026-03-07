@@ -3,7 +3,7 @@ import { StyleSheet, View, Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { LinearGradient } from "expo-linear-gradient";
 
-import SquircleWrapper from "../../components/SquircleWrapper";
+import SquircleWrapper from "../components/SquircleWrapper";
 
 export default function HomeScreen() {
   return (
@@ -17,8 +17,8 @@ export default function HomeScreen() {
           style={styles.gradient}
         >
           <View>
-            <Text style={styles.Header}>Pomodoro</Text>
-            <Text style={styles.Desc}>
+            <Text style={styles.focus}>Pomodoro</Text>
+            <Text style={styles.fDesc}>
               Work for 25 minutes, take a 5-minute break. After 4 cycles, take
               15-30 break.
             </Text>
@@ -56,14 +56,24 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     alignItems: "center",
   },
-  Header: {
+  focus: {
     fontFamily: "InterMedium",
     color: "#fff",
     fontSize: 34,
     lineHeight: 34,
-    marginBottom: 6,
+    marginBottom: 7,
     letterSpacing: -1.87,
+    opacity: 0.7,
     textAlignVertical: "center",
+  },
+  fDesc: {
+    fontFamily: "InterMedium",
+    color: "#fff",
+    width: 200,
+    fontSize: 12,
+    opacity: 0.7,
+    lineHeight: 15.6,
+    letterSpacing: -0.66,
   },
   HeaderLight: {
     fontFamily: "InterMedium",
@@ -71,14 +81,7 @@ const styles = StyleSheet.create({
     fontSize: 34,
     marginTop: 20,
   },
-  Desc: {
-    fontFamily: "InterMedium",
-    color: "#fff",
-    fontSize: 12,
-    lineHeight: 15.6,
-    letterSpacing: -0.66,
-    width: 200,
-  },
+
   startText: {
     fontFamily: "InterMedium",
     color: "#fff",

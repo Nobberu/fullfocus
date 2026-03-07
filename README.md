@@ -18,6 +18,6 @@ Clean, distraction-free, and quick-access features to ensure that users don't ge
 
 ## Built With
 
-- [**Bun**](https://bun.sh/) - For the fast runtime and package management.
+- [**Node.js & npm**](https://nodejs.org/) - For reliable package management and native module compilation.
 - [**React Native**](https://reactnative.dev/) - For the core cross-platform framework native experience.
 - [**Expo**](https://expo.dev/) - For the tools that streamlined the entire development process.
