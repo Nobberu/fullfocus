@@ -1,4 +1,4 @@
-const expoConfig = require("eslint-config-expo/flat");
+import expoConfig from "eslint-config-expo/flat";
 
 module.exports = [
   ...expoConfig,
