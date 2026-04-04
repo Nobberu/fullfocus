@@ -24,8 +24,9 @@
       "package": "com.anonymous.fullfocus"
     },
     "web": {
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "bundler": "metro",
+      "favicon": "./assets/images/favicon.png",
+      "output": "static"
     },
     "plugins": [
       "expo-router",
