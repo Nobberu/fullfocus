@@ -1,7 +1,9 @@
 # fullfocus.
+
 An app designed to improve user productivity and focus management, helping people get more things done.
 
 ## Key Concept
+
 Clean, distraction-free, and quick-access features to ensure that users don't get exhausted just by navigating the app. The main goal is to guarantee users can dedicate their full energy to their tasks and projects.
 
 ## Features
@@ -14,7 +16,7 @@ Clean, distraction-free, and quick-access features to ensure that users don't ge
 ## Credits
 
 - [**Nobberu**](https://github.com/Nobberu) - As the main idea & developer.
-- [**A6iyyu**](https://github.com/a6iyyu) - As the main development partner.
+- [**a6iyyu**](https://github.com/a6iyyu) - As the main development partner.
 
 ## Built With
 
